@@ -1,3 +1,63 @@
 body {
-  background-color: lightblue;
-}
+    background-color: lightblue;
+   }
+   #plant1 {
+       float: left;
+       margin-left: 10px;
+   }
+   
+   #plant2 {
+       float: right;
+       margin-left: 10px;
+   }
+   #plant3 {
+       float: left;
+       margin-left: 10px;
+   }
+   #plant4 {
+       float: right;
+       margin-left: 10px;
+   }
+   #plant5 {
+       float: left;
+       margin-left: 10px;
+   }
+   #plant6 {
+       float: right;
+       margin-left: 10px;
+   }
+   #plant7 {
+       float: left;
+       margin-left: 10px;
+   }
+   #plant8 {
+       float: right;
+       margin-left: 10px;
+   }
+   #plant9 {
+       float: left;
+       margin-left: 10px;
+   }
+   #plant10 {
+       float: right;
+       margin-left: 10px;
+   }
+   #plant11 {
+       float: left;
+       margin-left: 10px;
+   }
+   #plant12 {
+       float: right;
+       margin-left: 10px;
+   }
+   #plant13 {
+       float: left;
+       margin-left: 10px;
+   }
+   #plant14 {
+       float: right;
+       margin-left: 10px;
+   }
+   #plant15 {
+       margin-left: 10px;
+   }
